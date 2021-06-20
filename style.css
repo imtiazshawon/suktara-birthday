@@ -1,0 +1,46 @@
+.img{
+    width: 50%;
+}
+.banner{
+    margin-top: 50px;
+}
+.phone{
+    margin-top: 70px;
+}
+/* #img-3{ 
+    width: 50%;
+}
+#img-2{
+    width: 57%;
+} */
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+}
+.text-dsgn{
+    color: hotpink;
+}
+.text-style{
+    color: red;
+}
+.green{
+    color: green;
+}
+.skyblue{
+    color: skyblue;
+}
+.blue{
+    color: blue;
+}
+.gray{
+    color: wheat;
+}
+.card-text{
+    color: lightgray;
+}
+.pink{
+    color: orange;
+}
+footer{
+    margin-top: 20px;
+    text-align: center;
+}
